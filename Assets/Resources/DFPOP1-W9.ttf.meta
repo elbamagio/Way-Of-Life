@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b7a75d1f5818ff646893eeb95b93f9bb
+timeCreated: 1530693096
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFPOP1-W9
+  fontNames:
+  - DFPOP1-W9
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
